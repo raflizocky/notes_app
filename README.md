@@ -1,6 +1,6 @@
 ## Demo
 
-<a href="https://github.com/raflizocky/notes-app/blob/main/demo-img/Demo.md">Here</a>
+<a href="https://github.com/raflizocky/notes_app/blob/main/demo-img/Demo.md">Here</a>
 
 ## Features
 
